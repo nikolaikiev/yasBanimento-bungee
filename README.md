@@ -13,7 +13,6 @@ O **yasBanimento** é um plugin para servidores BungeeCord do Minecraft que perm
 1. Baixe a versão mais recente do arquivo JAR do plugin yasBanimento.
 2. Coloque o arquivo JAR na pasta `plugins` do seu servidor BungeeCord.
 3. Inicie seu servidor para carregar o plugin.
-4. Configure a conexão com o banco de dados no arquivo `Main.java`.
 
 ## Comandos
 ### Banir Jogador
