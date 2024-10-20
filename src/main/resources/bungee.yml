@@ -1,0 +1,7 @@
+name: yasBanimento-bungee
+author: nikolaikiev
+version: 1.0
+main: onion.yasara.Main
+commands:
+  ban:
+    aliases: [ban-ip]
